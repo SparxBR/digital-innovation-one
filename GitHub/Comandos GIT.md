@@ -46,39 +46,7 @@ Para isso, preparei este artigo com a criação dos principais atalhos para o Gi
 
 > **Git, SVN e CVS— comparação das** [principais ferramentas de controle de versão de software](https://blog.geekhunter.com.br/git-svn-e-cvs-comparacao-dos-principais-vcs/)**.**
 
-**Conteúdo** [ocultar](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#) 
 
-[1 O que é o Git?](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#O_que_e_o_Git)
-
-[2 Como começar com o Git](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Como_comecar_com_o_Git)
-
-[2.1 As Informações](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#As_Informacoes)
-
-[2.2 Os Commits](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Os_Commits)
-
-[2.3 Git Log](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Log)
-
-[3 10 Principais Comandos Git](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#10_Principais_Comandos_Git)
-
-[3.1 Git Clone](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Clone)
-
-[3.2 Git Branch](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Branch)
-
-[3.3 Git Checkout](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Checkout)
-
-[3.4 Git Status](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Status)
-
-[3.5 Git Add](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Add)
-
-[3.6 Git Commit](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Commit)
-
-[3.7 Git Push](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Push)
-
-[3.8 Git Pull](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Pull)
-
-[3.9 Git Revert](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Revert)
-
-[3.10 Git Merge](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#Git_Merge)
 
 ## O que é o Git?
 
